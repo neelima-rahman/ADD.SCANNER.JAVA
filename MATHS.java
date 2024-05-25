@@ -2,10 +2,10 @@ import java.util.Scanner;
 public class MATHS {
 
 		public static void main(String[] args) {
-			 Scanner scanner = new Scanner(System.in);
+			Scanner scanner = new Scanner(System.in);
 
 			 
-			    System.out.print("A = ");
+			System.out.print("A = ");
 		        
 		        int A = scanner.nextInt();
 		        System.out.print("B = ");
